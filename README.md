@@ -237,8 +237,9 @@ plt.show()
 
 ```
 sm.qqplot(df['Highly Negative Skew_1'],line='45')
-```
 plt.show()
+```
+
 ![Screenshot 2024-10-03 111409](https://github.com/user-attachments/assets/225e9905-08c9-411d-b570-60a558705242)
 
    
